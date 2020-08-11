@@ -1,0 +1,15 @@
+#button{
+
+	height:50px;
+
+font-family:arial;
+background-color:red;
+color:yellow;
+font-size:26px;
+text-decoration:none;
+
+padding:12px 10px;
+
+	width:200px;
+}
+
